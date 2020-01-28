@@ -1,5 +1,7 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+本文件是因子库
 
-武汉疫情非常严峻，但希望武汉一切都好。
+提供各类因子，以所用数据源为分类标准，主要可分为价格因子、成交量因子、市场情绪因子
+
+函数构架图见附件 code_structure.pdf
+
+更新日期：2020-1-28
